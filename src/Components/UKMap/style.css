@@ -1,0 +1,91 @@
+.ukContainer{
+	position: relative;
+}
+.ukContainer svg{
+	/*position: absolute;*/
+	
+	margin:0;
+	background-image: radial-gradient(
+		circle,
+		#bbdbe8,
+		#5893a9,
+		#5893a9
+	)
+}
+
+.ukContainer h4{
+	padding:10px 0;
+	color:#ebebeb;
+	padding:0 10px -1px 10px;
+	background:#5893a9;
+	margin:0;
+	text-align: left;
+	border:0;
+}
+
+
+
+
+.ukContainer path{
+	/*color:red;*/
+	stroke:black;
+	/*fill:transparent;*/
+
+	/*transition: all 0.3s ease;*/
+	
+}
+
+
+
+.path{
+	stroke:#ffffcc;
+	fill:#ffffcc;
+}
+
+.band0{
+	stroke:#ffffcc;
+	fill:#ffffcc;
+}
+.band1{
+	stroke:#ffeda0;
+	fill:#ffeda0;
+}
+.band2{
+	stroke:#fed976;
+	fill:#fed976;
+}
+.band3{
+	stroke:#feb24c;
+	fill:#feb24c;
+}
+.band4{
+	stroke:#fd8d3c;
+	fill:#fd8d3c;
+}
+.band5{
+	stroke:#fc4e2a;
+	fill:#fc4e2a;
+}
+.band6{
+	stroke:#e31a1c;
+	fill:#e31a1c;
+}
+
+.band7{
+	stroke:#bd0026;
+	fill:#bd0026;
+}
+
+.band8{
+	stroke:#800026;
+	fill:#800026;
+}
+
+.band9{
+	stroke:#200026;
+	fill:#200006;
+}
+.uk path:hover{
+	/*fill:#ebebeb;*/
+	/*fill:#bed492;*/
+}

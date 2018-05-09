@@ -1,0 +1,19 @@
+.world path{
+	color:red;
+	stroke:black;
+	fill:#bed492;
+	transition: all 0.3s ease;
+	
+}
+
+.world svg{
+	background-image: radial-gradient(
+		circle,
+		#bbdbe8,
+		#5893a9
+	)
+}
+
+.world path:hover{
+	fill:#ebebeb;
+}
